@@ -124,3 +124,13 @@ C:\projetos\ModeloIDP\ModeloIDP\obj\Debug\ModeloIDP.csproj.CoreCompileInputs.cac
 C:\projetos\ModeloIDP\ModeloIDP\obj\Debug\ModeloIDP.csproj.CopyComplete
 C:\projetos\ModeloIDP\ModeloIDP\obj\Debug\ModeloIDP.dll
 C:\projetos\ModeloIDP\ModeloIDP\obj\Debug\ModeloIDP.pdb
+C:\projetos\ModeloIDP\ModeloIDP\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\projetos\ModeloIDP\ModeloIDP\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projetos\ModeloIDP\ModeloIDP\bin\Microsoft.IdentityModel.Logging.dll
+C:\projetos\ModeloIDP\ModeloIDP\bin\Microsoft.IdentityModel.Tokens.dll
+C:\projetos\ModeloIDP\ModeloIDP\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\projetos\ModeloIDP\ModeloIDP\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\projetos\ModeloIDP\ModeloIDP\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\projetos\ModeloIDP\ModeloIDP\bin\Microsoft.IdentityModel.Logging.xml
+C:\projetos\ModeloIDP\ModeloIDP\bin\Microsoft.IdentityModel.Tokens.xml
+C:\projetos\ModeloIDP\ModeloIDP\bin\System.IdentityModel.Tokens.Jwt.xml

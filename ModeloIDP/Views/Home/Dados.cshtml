@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Dados";
+}
+
+<h2>Dados</h2>
+
+<ul>
+    <li>
+        <span style="font-weight:bold">CPF : @ViewBag.CPF</span>
+    </li>
+    <li>
+        <span style="font-weight:bold">Nome : @ViewBag.Nome</span>
+    </li>
+    <li>
+        <span style="font-weight:bold">Email : @ViewBag.Email</span>
+    </li>
+    <li>
+        <span style="font-weight:bold">Telefone : @ViewBag.Telefone</span>
+    </li>
+</ul>
+
+<br />
+
+@Html.ActionLink("Deslogar", "Logout", "Home")
